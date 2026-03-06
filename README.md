@@ -1,25 +1,31 @@
-# Calculadora em C#
+C# Calculator
 
-Projeto simples de calculadora desenvolvido em C# para praticar lógica de programação.
+A simple calculator project developed in C# to practice programming logic and basic concepts.
 
-## Funcionalidades
+Features
 
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-- Menu interativo
+Addition
 
-## Tecnologias utilizadas
+Subtraction
 
-- C#
-- .NET
-- Console Application
+Multiplication
 
-## Objetivo
+Division
 
-Este projeto foi desenvolvido como prática durante meus estudos de programação em C# no curso do Nelio Alves
+Interactive menu in the console
 
-## Autor
+Technologies Used
+
+C#
+
+.NET
+
+Console Application
+
+Purpose
+
+This project was created as part of my programming studies to practice logic, conditional statements, and user interaction using C#.
+
+Author
 
 Vitor Miranda Jeremias
