@@ -1,31 +1,21 @@
-C# Calculator
+# C# Calculator
 
-A simple calculator project developed in C# to practice programming logic and basic concepts.
+A simple calculator project developed in **C#** to practice programming logic.
 
-Features
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Interactive menu
 
-Addition
+## Technologies Used
+- C#
+- .NET
+- Console Application
 
-Subtraction
+## Purpose
+This project was developed as practice during my **C# programming studies in Nelio Alves' course**.
 
-Multiplication
-
-Division
-
-Interactive menu in the console
-
-Technologies Used
-
-C#
-
-.NET
-
-Console Application
-
-Purpose
-
-This project was created as part of my programming studies to practice logic, conditional statements, and user interaction using C#.
-
-Author
-
+## Author
 Vitor Miranda Jeremias
